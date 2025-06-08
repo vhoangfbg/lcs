@@ -1,0 +1,14 @@
+/Users/mac/code/lcs/l6/bin/Debug/net8.0/l6
+/Users/mac/code/lcs/l6/bin/Debug/net8.0/l6.deps.json
+/Users/mac/code/lcs/l6/bin/Debug/net8.0/l6.runtimeconfig.json
+/Users/mac/code/lcs/l6/bin/Debug/net8.0/l6.dll
+/Users/mac/code/lcs/l6/bin/Debug/net8.0/l6.pdb
+/Users/mac/code/lcs/l6/obj/Debug/net8.0/l6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/code/lcs/l6/obj/Debug/net8.0/l6.AssemblyInfoInputs.cache
+/Users/mac/code/lcs/l6/obj/Debug/net8.0/l6.AssemblyInfo.cs
+/Users/mac/code/lcs/l6/obj/Debug/net8.0/l6.csproj.CoreCompileInputs.cache
+/Users/mac/code/lcs/l6/obj/Debug/net8.0/l6.dll
+/Users/mac/code/lcs/l6/obj/Debug/net8.0/refint/l6.dll
+/Users/mac/code/lcs/l6/obj/Debug/net8.0/l6.pdb
+/Users/mac/code/lcs/l6/obj/Debug/net8.0/l6.genruntimeconfig.cache
+/Users/mac/code/lcs/l6/obj/Debug/net8.0/ref/l6.dll
