@@ -1,0 +1,14 @@
+/home/ykzr/code/d/l7/bin/Debug/net8.0/l7
+/home/ykzr/code/d/l7/bin/Debug/net8.0/l7.deps.json
+/home/ykzr/code/d/l7/bin/Debug/net8.0/l7.runtimeconfig.json
+/home/ykzr/code/d/l7/bin/Debug/net8.0/l7.dll
+/home/ykzr/code/d/l7/bin/Debug/net8.0/l7.pdb
+/home/ykzr/code/d/l7/obj/Debug/net8.0/l7.GeneratedMSBuildEditorConfig.editorconfig
+/home/ykzr/code/d/l7/obj/Debug/net8.0/l7.AssemblyInfoInputs.cache
+/home/ykzr/code/d/l7/obj/Debug/net8.0/l7.AssemblyInfo.cs
+/home/ykzr/code/d/l7/obj/Debug/net8.0/l7.csproj.CoreCompileInputs.cache
+/home/ykzr/code/d/l7/obj/Debug/net8.0/l7.dll
+/home/ykzr/code/d/l7/obj/Debug/net8.0/refint/l7.dll
+/home/ykzr/code/d/l7/obj/Debug/net8.0/l7.pdb
+/home/ykzr/code/d/l7/obj/Debug/net8.0/l7.genruntimeconfig.cache
+/home/ykzr/code/d/l7/obj/Debug/net8.0/ref/l7.dll
